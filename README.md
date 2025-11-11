@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) — Cardiographic Dataset
+# Exploratory Data Analysis (EDA) Cardiographic Dataset
 
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on a **Cardiotocographic (CTG) dataset** to explore fetal health patterns and relationships among physiological parameters.  
 It demonstrates a complete data analysis workflow from **data cleaning** to **statistical interpretation** and **visual insights**.
@@ -58,6 +58,3 @@ It demonstrates a complete data analysis workflow from **data cleaning** to **st
 ✔ Correlation heatmap and pairplot provide clarity on variable interactions.  
 ✔ Findings support feature selection for future predictive modeling.
 
----
-
-## 📁 File Structure
